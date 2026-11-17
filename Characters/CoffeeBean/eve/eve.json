@@ -1,0 +1,1012 @@
+{
+    "ActiveSkins": {
+        "Items": [
+            {
+                "Key": "Brows",
+                "Value": "Brows1"
+            },
+            {
+                "Key": "Cheek",
+                "Value": "Cheek3"
+            },
+            {
+                "Key": "Ear",
+                "Value": "Ear1"
+            },
+            {
+                "Key": "Eye",
+                "Value": "Eye1"
+            },
+            {
+                "Key": "BaseHair",
+                "Value": "BaseHair1"
+            },
+            {
+                "Key": "HairBangLeft",
+                "Value": "HairBangLeft4"
+            },
+            {
+                "Key": "HairBangMiddle",
+                "Value": "HairBangMiddle4"
+            },
+            {
+                "Key": "HairBangRight",
+                "Value": "HairBangRight4"
+            },
+            {
+                "Key": "FrameHairL",
+                "Value": "FrameHairL_A1Gradient"
+            },
+            {
+                "Key": "FrameHairR",
+                "Value": "FrameHairR_A1Gradient"
+            },
+            {
+                "Key": "SideHair",
+                "Value": "SideHairA4"
+            },
+            {
+                "Key": "PigtailLeft",
+                "Value": "PigtailLeftA2Gradient"
+            },
+            {
+                "Key": "PigtailRight",
+                "Value": "PigtailRightA2Gradient"
+            },
+            {
+                "Key": "Halo",
+                "Value": "Halo1"
+            },
+            {
+                "Key": "Wing",
+                "Value": "WingB1"
+            },
+            {
+                "Key": "Hand",
+                "Value": "Hand1"
+            },
+            {
+                "Key": "Leg",
+                "Value": "Leg1"
+            },
+            {
+                "Key": "OutfitInner",
+                "Value": "OutfitInner8"
+            },
+            {
+                "Key": "NeckwearB",
+                "Value": "NeckwearB4"
+            }
+        ]
+    },
+    "SliderConstraints": [
+        {
+            "Name": "Character/EarShape1",
+            "Value": 1.0
+        },
+        {
+            "Name": "Character/FrameHairLeft_Length",
+            "Value": 0.0
+        },
+        {
+            "Name": "Character/FrameHairRight_Length",
+            "Value": 0.0
+        },
+        {
+            "Name": "Character/SideHair_Length",
+            "Value": 0.0
+        },
+        {
+            "Name": "Character/BackHair_Length",
+            "Value": 0.8659999966621399
+        },
+        {
+            "Name": "Character/PigtailLeft_Length",
+            "Value": 1.3329999446868897
+        },
+        {
+            "Name": "Character/PigtailRight_Length",
+            "Value": 1.3329999446868897
+        }
+    ],
+    "SlotGroups": [
+        {
+            "Name": "PigtailLeft",
+            "TintColor": {
+                "r": 0.7372549176216126,
+                "g": 0.25882354378700259,
+                "b": 0.25882354378700259,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.7647058963775635,
+                "g": 0.4431372582912445,
+                "b": 0.32549020648002627,
+                "a": 1.0
+            },
+            "RenderMode": 2
+        },
+        {
+            "Name": "PigtailRight",
+            "TintColor": {
+                "r": 0.7372549176216126,
+                "g": 0.25882354378700259,
+                "b": 0.25882354378700259,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.7647058963775635,
+                "g": 0.4431372582912445,
+                "b": 0.32549020648002627,
+                "a": 1.0
+            },
+            "RenderMode": 2
+        },
+        {
+            "Name": "HairBangMiddleOutline",
+            "TintColor": {
+                "r": 0.2646198272705078,
+                "g": 0.03753010556101799,
+                "b": 0.20027785003185273,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "FrameHairLeftOutline",
+            "TintColor": {
+                "r": 0.2646198272705078,
+                "g": 0.03753010556101799,
+                "b": 0.20027785003185273,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "FrameHairRightOutline",
+            "TintColor": {
+                "r": 0.2646198272705078,
+                "g": 0.03753010556101799,
+                "b": 0.20027785003185273,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "BackHairOutline",
+            "TintColor": {
+                "r": 0.2646198272705078,
+                "g": 0.03753010556101799,
+                "b": 0.20027785003185273,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "BackHair",
+            "TintColor": {
+                "r": 0.3845028281211853,
+                "g": 0.05268402397632599,
+                "b": 0.21498672664165498,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "SideHairOutline",
+            "TintColor": {
+                "r": 0.2646198272705078,
+                "g": 0.03753010556101799,
+                "b": 0.20027785003185273,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "SideHair",
+            "TintColor": {
+                "r": 0.7372549176216126,
+                "g": 0.25882354378700259,
+                "b": 0.25882354378700259,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.7960784435272217,
+                "g": 0.27843138575553896,
+                "b": 0.5137255191802979,
+                "a": 1.0
+            },
+            "RenderMode": 2
+        },
+        {
+            "Name": "HornLeft",
+            "TintColor": {
+                "r": 0.10672510415315628,
+                "g": 0.0785045176744461,
+                "b": 0.09872929006814957,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "HornRight",
+            "TintColor": {
+                "r": 0.10672510415315628,
+                "g": 0.0785045176744461,
+                "b": 0.09872929006814957,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "HornLeftOutline",
+            "TintColor": {
+                "r": 0.0511695072054863,
+                "g": 0.03259594738483429,
+                "b": 0.04590700939297676,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "HornRightOutline",
+            "TintColor": {
+                "r": 0.0511695072054863,
+                "g": 0.03259594738483429,
+                "b": 0.04590700939297676,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "LegLeft",
+            "TintColor": {
+                "r": 0.34117648005485537,
+                "g": 0.3019607961177826,
+                "b": 0.3019607961177826,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "LegRight",
+            "TintColor": {
+                "r": 0.34117648005485537,
+                "g": 0.3019607961177826,
+                "b": 0.3019607961177826,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "OutfitInner",
+            "TintColor": {
+                "r": 0.35686275362968447,
+                "g": 0.5921568870544434,
+                "b": 0.5490196347236633,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "OutfitInnerOutline",
+            "TintColor": {
+                "r": 0.0511695072054863,
+                "g": 0.03259594738483429,
+                "b": 0.04590700939297676,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "OutfitNeckwearC",
+            "TintColor": {
+                "r": 0.72076016664505,
+                "g": 0.15420116484165193,
+                "b": 0.4080195724964142,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "OutfitNeckwearCOutline",
+            "TintColor": {
+                "r": 0.0511695072054863,
+                "g": 0.03259594738483429,
+                "b": 0.04590700939297676,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "OutfitCollarOutline",
+            "TintColor": {
+                "r": 0.0511695072054863,
+                "g": 0.03259594738483429,
+                "b": 0.04590700939297676,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "OutfitOuter",
+            "TintColor": {
+                "r": 0.10672510415315628,
+                "g": 0.0785045176744461,
+                "b": 0.09872929006814957,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "OutfitOuterOutline",
+            "TintColor": {
+                "r": 0.0511695072054863,
+                "g": 0.03259594738483429,
+                "b": 0.04590700939297676,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "OutfitNeckwearBOutline",
+            "TintColor": {
+                "r": 0.0511695072054863,
+                "g": 0.03259594738483429,
+                "b": 0.04590700939297676,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "OutfitNeckwearAOutline",
+            "TintColor": {
+                "r": 0.0511695072054863,
+                "g": 0.03259594738483429,
+                "b": 0.04590700939297676,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "EyeDarkLeft",
+            "TintColor": {
+                "r": 0.11764705926179886,
+                "g": 0.2549019753932953,
+                "b": 0.0784313753247261,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "EyeLightLeft",
+            "TintColor": {
+                "r": 0.47058823704719546,
+                "g": 0.8196078538894653,
+                "b": 0.37254902720451357,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "EyeDarkRight",
+            "TintColor": {
+                "r": 0.11764705926179886,
+                "g": 0.2549019753932953,
+                "b": 0.0784313753247261,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "EyeLightRight",
+            "TintColor": {
+                "r": 0.47058823704719546,
+                "g": 0.8196078538894653,
+                "b": 0.37254902720451357,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "Eyelash",
+            "TintColor": {
+                "r": 0.5545454025268555,
+                "g": 0.1839597076177597,
+                "b": 0.27660614252090456,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.2963636517524719,
+                "g": 0.09403843432664871,
+                "b": 0.17159640789031983,
+                "a": 1.0
+            },
+            "RenderMode": 2
+        },
+        {
+            "Name": "SteeringWheel",
+            "TintColor": {
+                "r": 0.6292616724967957,
+                "g": 0.6292616724967957,
+                "b": 0.6292616724967957,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "SquareSignText",
+            "TintColor": {
+                "r": 0.8256756663322449,
+                "g": 0.0,
+                "b": 0.35779285430908205,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "LightStickLeft",
+            "TintColor": {
+                "r": 0.7100001573562622,
+                "g": 0.6588236689567566,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.08842599391937256,
+                "b": 0.37896811962127688,
+                "a": 1.0
+            },
+            "RenderMode": 2
+        },
+        {
+            "Name": "LightStickRight",
+            "TintColor": {
+                "r": 1.0,
+                "g": 0.6666666865348816,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.37896811962127688,
+                "g": 0.1326388418674469,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 2
+        },
+        {
+            "Name": "HairBangRightOutline",
+            "TintColor": {
+                "r": 0.2646198272705078,
+                "g": 0.03753010556101799,
+                "b": 0.20027785003185273,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "HairBangLeftOutline",
+            "TintColor": {
+                "r": 0.2646198272705078,
+                "g": 0.03753010556101799,
+                "b": 0.20027785003185273,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "HairBangRight",
+            "TintColor": {
+                "r": 0.7372549176216126,
+                "g": 0.25882354378700259,
+                "b": 0.25882354378700259,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "HairBangLeft",
+            "TintColor": {
+                "r": 0.7372549176216126,
+                "g": 0.25882354378700259,
+                "b": 0.25882354378700259,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "FrameHairLeft",
+            "TintColor": {
+                "r": 0.7372549176216126,
+                "g": 0.25882354378700259,
+                "b": 0.25882354378700259,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.7686274647712708,
+                "g": 0.4588235318660736,
+                "b": 0.3333333432674408,
+                "a": 1.0
+            },
+            "RenderMode": 2
+        },
+        {
+            "Name": "FrameHairRight",
+            "TintColor": {
+                "r": 0.7372549176216126,
+                "g": 0.25882354378700259,
+                "b": 0.25882354378700259,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.7686274647712708,
+                "g": 0.4588235318660736,
+                "b": 0.3333333432674408,
+                "a": 1.0
+            },
+            "RenderMode": 2
+        },
+        {
+            "Name": "HairHighlightLeft1Outline",
+            "TintColor": {
+                "r": 0.2646198272705078,
+                "g": 0.03753010556101799,
+                "b": 0.20027785003185273,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "HairHighlightRight1Outline",
+            "TintColor": {
+                "r": 0.2646198272705078,
+                "g": 0.03753010556101799,
+                "b": 0.20027785003185273,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "HairHighlightLeft2Outline",
+            "TintColor": {
+                "r": 0.2646198272705078,
+                "g": 0.03753010556101799,
+                "b": 0.20027785003185273,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "HairHighlightRight2Outline",
+            "TintColor": {
+                "r": 0.2646198272705078,
+                "g": 0.03753010556101799,
+                "b": 0.20027785003185273,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "HairHighlightLeft3Outline",
+            "TintColor": {
+                "r": 0.2646198272705078,
+                "g": 0.03753010556101799,
+                "b": 0.20027785003185273,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "HairHighlightRight3Outline",
+            "TintColor": {
+                "r": 0.2646198272705078,
+                "g": 0.03753010556101799,
+                "b": 0.20027785003185273,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "HairBangMiddle",
+            "TintColor": {
+                "r": 0.7372549176216126,
+                "g": 0.25882354378700259,
+                "b": 0.25882354378700259,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "HairHighlightMiddle1Outline",
+            "TintColor": {
+                "r": 0.2646198272705078,
+                "g": 0.03753010556101799,
+                "b": 0.20027785003185273,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "HairHighlightMiddle2Outline",
+            "TintColor": {
+                "r": 0.2646198272705078,
+                "g": 0.03753010556101799,
+                "b": 0.20027785003185273,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "HairHighlightMiddle3Outline",
+            "TintColor": {
+                "r": 0.2646198272705078,
+                "g": 0.03753010556101799,
+                "b": 0.20027785003185273,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "HairHighlightMiddle4Outline",
+            "TintColor": {
+                "r": 0.2646198272705078,
+                "g": 0.03753010556101799,
+                "b": 0.20027785003185273,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "HairHighlightMiddle5Outline",
+            "TintColor": {
+                "r": 0.2646198272705078,
+                "g": 0.03753010556101799,
+                "b": 0.20027785003185273,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "HairHighlightMiddle6Outline",
+            "TintColor": {
+                "r": 0.2646198272705078,
+                "g": 0.03753010556101799,
+                "b": 0.20027785003185273,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "BrowLeft",
+            "TintColor": {
+                "r": 0.2980392277240753,
+                "g": 0.0941176488995552,
+                "b": 0.1725490242242813,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "BrowRight",
+            "TintColor": {
+                "r": 0.2980392277240753,
+                "g": 0.0941176488995552,
+                "b": 0.1725490242242813,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        },
+        {
+            "Name": "StickerSleep",
+            "TintColor": {
+                "r": 0.06730735301971436,
+                "g": 0.47147423028945925,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.02692868933081627,
+                "g": 0.15395621955394746,
+                "b": 0.3200691044330597,
+                "a": 1.0
+            },
+            "RenderMode": 2
+        },
+        {
+            "Name": "BlanketOutter",
+            "TintColor": {
+                "r": 0.12568192183971406,
+                "g": 0.15279997885227204,
+                "b": 0.3581080138683319,
+                "a": 1.0
+            },
+            "TintBlackColor": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "RenderMode": 1
+        }
+    ],
+    "IsUsingCustomTexture": false,
+    "SharedModelKey": "CoffeeBean"
+}
