@@ -4736,6 +4736,2918 @@
                 }
             },
             "texts": []
+        },
+        {
+            "name": "Angry",
+            "animationName": "ANIM/Angry",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Arrive-Spoon",
+            "animationName": "ANIM/Arrive-Spoon",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Battery-Charge",
+            "animationName": "ANIM/Battery-Charge",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Battery-Low",
+            "animationName": "ANIM/Battery-Low",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Bell",
+            "animationName": "ANIM/Bell",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Bite-1",
+            "animationName": "ANIM/Bite-1",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Bite-2",
+            "animationName": "ANIM/Bite-2",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Blink-1",
+            "animationName": "ANIM/Blink-1",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "BlowNose",
+            "animationName": "ANIM/BlowNose",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Blushing-1",
+            "animationName": "ANIM/Blushing-1",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Blushing-2",
+            "animationName": "ANIM/Blushing-2",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Bongo-Frame",
+            "animationName": "ANIM/Bongo-Frame",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Bongo-FrameLeft",
+            "animationName": "ANIM/Bongo-FrameLeft",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Bongo-FrameRight",
+            "animationName": "ANIM/Bongo-FrameRight",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Bongo-Smooth",
+            "animationName": "ANIM/Bongo-Smooth",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Book-Blush",
+            "animationName": "ANIM/Book-Blush",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Book-Read",
+            "animationName": "ANIM/Book-Read",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Boop",
+            "animationName": "ANIM/Boop",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Button-Punch",
+            "animationName": "ANIM/Button-Punch",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Cake",
+            "animationName": "ANIM/Cake",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Caught-VideoCamera",
+            "animationName": "ANIM/Caught-VideoCamera",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Cauldron-Magic1",
+            "animationName": "ANIM/Cauldron-Magic1",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Cauldron-Magic2",
+            "animationName": "ANIM/Cauldron-Magic2",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Cauldron-Stir1",
+            "animationName": "ANIM/Cauldron-Stir1",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Cauldron-Stir2",
+            "animationName": "ANIM/Cauldron-Stir2",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Celebration",
+            "animationName": "ANIM/Celebration",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Cheer",
+            "animationName": "ANIM/Cheer",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Crowbar-1",
+            "animationName": "ANIM/Crowbar-1",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Dance-1",
+            "animationName": "ANIM/Dance-1",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Dance-LowCortisol",
+            "animationName": "ANIM/Dance-LowCortisol",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Draw-Angry",
+            "animationName": "ANIM/Draw-Angry",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Draw-Normal",
+            "animationName": "ANIM/Draw-Normal",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Draw-Tired",
+            "animationName": "ANIM/Draw-Tired",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Drink-EnergyDrink2",
+            "animationName": "ANIM/Drink-EnergyDrink2",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Drooling-ForkKnife",
+            "animationName": "ANIM/Drooling-ForkKnife",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Easter",
+            "animationName": "ANIM/Easter",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Exclamation",
+            "animationName": "ANIM/Exclamation",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Gift-1",
+            "animationName": "ANIM/Gift-1",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Gift-2",
+            "animationName": "ANIM/Gift-2",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Greeting-1",
+            "animationName": "ANIM/Greeting-1",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Gun-TriggerHappy",
+            "animationName": "ANIM/Gun-TriggerHappy",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Hurt",
+            "animationName": "ANIM/Hurt",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Hydrate",
+            "animationName": "ANIM/Hydrate",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Jail-1",
+            "animationName": "ANIM/Jail-1",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Knife-2",
+            "animationName": "ANIM/Knife-2",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Laugh-Point",
+            "animationName": "ANIM/Laugh-Point",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Lick-IceCream",
+            "animationName": "ANIM/Lick-IceCream",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Lick-Popsicle",
+            "animationName": "ANIM/Lick-Popsicle",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Lightstick-1",
+            "animationName": "ANIM/Lightstick-1",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Loading-Mug",
+            "animationName": "ANIM/Loading-Mug",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Loading-Sleep",
+            "animationName": "ANIM/Loading-Sleep",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "LoveLetter",
+            "animationName": "ANIM/LoveLetter",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Luv-2",
+            "animationName": "ANIM/Luv-2",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Money",
+            "animationName": "ANIM/Money",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Music-1",
+            "animationName": "ANIM/Music-1",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "NeedFood",
+            "animationName": "ANIM/NeedFood",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Nerd-2",
+            "animationName": "ANIM/Nerd-2",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Nerd-3",
+            "animationName": "ANIM/Nerd-3",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Nervous-3",
+            "animationName": "ANIM/Nervous-3",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Noted-1",
+            "animationName": "ANIM/Noted-1",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Pillow-Lick",
+            "animationName": "ANIM/Pillow-Lick",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Pillow-Rub",
+            "animationName": "ANIM/Pillow-Rub",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Pumpkin",
+            "animationName": "ANIM/Pumpkin",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Question",
+            "animationName": "ANIM/Question",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Raid-2",
+            "animationName": "ANIM/Raid-2",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "RedPacket-2",
+            "animationName": "ANIM/RedPacket-2",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Scared-Cross",
+            "animationName": "ANIM/Scared-Cross",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Shy-3",
+            "animationName": "ANIM/Shy-3",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Sick",
+            "animationName": "ANIM/Sick",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Sick-bed",
+            "animationName": "ANIM/Sick-bed",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Sing",
+            "animationName": "ANIM/Sing",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "SixSeven",
+            "animationName": "ANIM/SixSeven",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Sparkling-1",
+            "animationName": "ANIM/Sparkling-1",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Sparkling-2",
+            "animationName": "ANIM/Sparkling-2",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Spray",
+            "animationName": "ANIM/Spray",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "StopsWorking",
+            "animationName": "ANIM/StopsWorking",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Sunglasses-Loop",
+            "animationName": "ANIM/Sunglasses-Loop",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Surprise",
+            "animationName": "ANIM/Surprise",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Swatter",
+            "animationName": "ANIM/Swatter",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Sweat-Wipe1",
+            "animationName": "ANIM/Sweat-Wipe1",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Sweat-Wipe2",
+            "animationName": "ANIM/Sweat-Wipe2",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Tablet",
+            "animationName": "ANIM/Tablet",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Tape",
+            "animationName": "ANIM/Tape",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Tea-2",
+            "animationName": "ANIM/Tea-2",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Think-Serious",
+            "animationName": "ANIM/Think-Serious",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "TrashTuber-Yap",
+            "animationName": "ANIM/TrashTuber-Yap",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Type-Normal",
+            "animationName": "ANIM/Type-Normal",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Work-Angry",
+            "animationName": "ANIM/Work-Angry",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Work-Nap",
+            "animationName": "ANIM/Work-Nap",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Work-Normal",
+            "animationName": "ANIM/Work-Normal",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
+        },
+        {
+            "name": "Yay",
+            "animationName": "ANIM/Yay",
+            "trackTime": 0.0,
+            "playbackSpeed": 1.0,
+            "isPaused": false,
+            "cameraPosition": {
+                "x": 0.0,
+                "y": 8.0,
+                "z": -10.0
+            },
+            "cameraRotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "cameraOrthographicSize": 10.0,
+            "model": {
+                "visible": true,
+                "mirrored": false,
+                "outlineEnabled": false,
+                "outlineWidth": 0.0,
+                "outlineColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                }
+            },
+            "texts": []
         }
     ]
 }
